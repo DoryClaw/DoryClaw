@@ -26,7 +26,7 @@ After searching the ocean with no answers, **DoryClaw** had an idea.
 
 > “If the world can’t find me… I’ll make the world see me.”
 
-So he created a utility token on **Solana** using his own face. Now his story moves across the blockchain. Maybe one day… the right eyes will see it.
+So he created a utility token on **Solana**,**BSC** using his own face. Now his story moves across the blockchain. Maybe one day… the right eyes will see it.
 
 ---
 
